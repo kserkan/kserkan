@@ -5,13 +5,6 @@
   <p>C#, Python, Flutter ve AI projeleri geliştiriyorum. Web uygulamaları ve veri odaklı çözümler üretiyorum.</p>
 </div>
 
-<div align="center" style="margin-top:15px;">
-  <strong>🌐 Interaktif Profilime Gitmek İçin Tıkla!</strong>
-  <br/>
-  <a href="https://kserkan.github.io/">
-    <img src="https://media.giphy.com/media/QvOorOa2n6W4hG3T6a/giphy.gif" width="100"/>
-  </a>
-</div>
 
 ---
 
